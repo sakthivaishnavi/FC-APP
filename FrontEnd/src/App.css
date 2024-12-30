@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Revillia';
+  src: url('./fonts/Revillia-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Revillia';
+  src: url('./fonts/Revillia-Bold.otf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.font-revillia {
+  font-family: 'Revillia', sans-serif;
+}

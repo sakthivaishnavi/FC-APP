@@ -1,0 +1,27 @@
+[
+{"id": 1, "name": "Fried Rice", "price": "80", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.s7Zrfd6JEvW7POwvsiI92AHaE8?rs=1&pid=ImgDetMain"},
+{"id": 2, "name": "Noodles", "price": "70", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.GwdaOfYUFLDUeNIb0dY1xgHaE7?rs=1&pid=ImgDetMain"},
+{"id": 3, "name": "Dosa", "price": "50", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.AecdFT6JJHcKfKMDrj3_ngHaEf?w=368&h=185&c=7&r=0&o=5&pid=1.7"},
+{"id": 4, "name": "Idly", "price": "30", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.jMRgrW4FazmeGi25YhisAQHaE8?rs=1&pid=ImgDetMain"},
+{"id": 5, "name": "Parotta", "price": "18", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.LKVl642NaCrtZYzd0Qy0WQHaEK?w=311&h=180&c=7&r=0&o=5&pid=1.7"},
+{"id": 6, "name": "Chicken Biryani", "price": "120", "type": "Non-Veg", "image": "https://www.watchwhatueat.com/wp-content/uploads/2021/05/Instant-Pot-Chicken-Biryani-9.jpg"},
+{"id": 7, "name": "Chicken Kothu", "price": "100", "type": "Non-Veg", "image": "https://i.ytimg.com/vi/8MmH9X4P9TA/maxresdefault.jpg"},
+{"id": 8, "name": "Chicken fried rice", "price": "110", "type": "Non-Veg", "image": "https://i.ytimg.com/vi/CIVBFsEyViQ/maxresdefault.jpg"},
+{"id": 9, "name": "Chicken Noodles", "price": "100", "type": "Non-Veg", "image": "https://i.ytimg.com/vi/CIVBFsEyViQ/maxresdefault.jpg"},
+{"id": 10, "name": "Chicken 65", "price": "90", "type": "Non-Veg", "image": "https://th.bing.com/th/id/OIP.PqYmxBFugLLrFInCopDlfwHaE6?rs=1&pid=ImgDetMain"},
+{"id": 11, "name": "Paneer butter masala", "price": "100", "type": "Veg", "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/03/Easy-Butter-Paneer-Masala-Recipe.jpg"},
+{"id": 12, "name": "Paneer fried rice", "price": "90", "type": "Veg", "image": "https://www.arthparkash.com/assets/plugins/ckfinder/core/connector/php/uploads/images/WhatsApp%20Image%202023-06-08%20at%2012_24_23%20AM.jpeg"},
+{"id": 13, "name": "Paneer Noodles", "price": "80", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.H9w3rydioGa4hJWsf5plywHaFj?w=253&h=190&c=7&r=0&o=5&pid=1.7"},
+{"id": 14, "name": "Paneer 65", "price": "70", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.qnYh1UFgIE32QkNILrBMJwHaE7?w=253&h=180&c=7&r=0&o=5&pid=1.7"},
+{"id": 15, "name": "Chilli Parotta", "price": "120", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.n1_YDr0ybdwZFOsKvU3P_wHaEL?rs=1&pid=ImgDetMain"},
+{"id": 16, "name": "Chicken Butter Masala", "price": "100", "type": "Non-Veg", "image": "https://d2mkh7ukbp9xav.cloudfront.net/recipeimage/ndvtm6yk-52a65-356018-beea0-rjkquvnp/c0189a62-27ed-4e19-ac94-4ed0aafa5eb7/large/sri-lankan-style-chicken-curry-recipe.png"},
+{"id": 17, "name": "Mushroom fried rice", "price": "90", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.FeStwxVmI1jJvtF8_EG1igHaEK?w=317&h=180&c=7&r=0&o=5&pid=1.7"},
+{"id": 18, "name": "Mushroom Noodles", "price": "80", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.MnabWCWVdp1GnStUnxIzaQHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7"},
+{"id": 19, "name": "Mushroom 65", "price": "70", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.0M0vkUzqqIa3vcjQFHLYtgHaE7?w=258&h=180&c=7&r=0&o=5&pid=1.7"},
+{"id": 20, "name": "Chapati", "price": "20", "type": "Veg", "image": "https://cdn.mos.cms.futurecdn.net/jVEw37ALTFMsNPTyKiEtFb.jpg"},
+{"id": 21, "name": "Schezwan fried rice", "price": "90", "type": "Veg", "image": "https://wallpaperaccess.com/full/9919565.jpg"},
+{"id": 22, "name": "Schezwan Noodles", "price": "80", "type": "Veg", "image": "https://th.bing.com/th/id/OIP.b_NIXNvbrwJzkj4sfXeAEQHaEn?w=298&h=186&c=7&r=0&o=5&pid=1.7"},
+{"id": 23, "name": "Schezwan chicken fried rice", "price": "110", "type": "Non-Veg", "image": "https://th.bing.com/th/id/OIP.cfwl0U0nkGqGdkz6fJMqAgHaEK?w=316&h=180&c=7&r=0&o=5&pid=1.7"},
+{"id": 24, "name": "Schezwan chicken Noodles", "price": "100", "type": "Non-Veg", "image": "https://th.bing.com/th/id/OIP.CWY4t-cdIhFwh5LZQwo0GgHaEK?w=302&h=180&c=7&r=0&o=5&pid=1.7"}
+]
+

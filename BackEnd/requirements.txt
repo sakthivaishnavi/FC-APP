@@ -1,0 +1,11 @@
+flask
+flask_cors
+flask_sqlalchemy
+bcrypt
+pyjwt
+python-dotenv
+razorpay
+apscheduler
+setuptools
+mysql-connector-python
+gunicorn
